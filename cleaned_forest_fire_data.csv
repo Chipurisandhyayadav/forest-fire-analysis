@@ -1,0 +1,745 @@
+Continent,Region,Ecosystem,Year,Month,Month_Number,Hemisphere_Season,Fire_Frequency_Count,Estimated_Burned_Area_km2,Impact_Level,Data_Type
+North America,"California, USA",Temperate/Mediterranean,2024,January,1,Winter,4.0,63.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"California, USA",Temperate/Mediterranean,2024,February,2,Winter,14.0,49.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"California, USA",Temperate/Mediterranean,2024,March,3,Spring,24.0,349.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"California, USA",Temperate/Mediterranean,2024,April,4,Spring,24.0,220.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"California, USA",Temperate/Mediterranean,2024,May,5,Spring,25.0,307.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"California, USA",Temperate/Mediterranean,2024,June,6,Summer,42.0,382.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"California, USA",Temperate/Mediterranean,2024,July,7,Summer,41.0,123.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"California, USA",Temperate/Mediterranean,2024,August,8,Summer,32.0,387.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"California, USA",Temperate/Mediterranean,2024,September,9,Autumn,14.0,245.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"California, USA",Temperate/Mediterranean,2024,October,10,Autumn,53.0,766.1,High,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"California, USA",Temperate/Mediterranean,2024,November,11,Autumn,40.0,108.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"California, USA",Temperate/Mediterranean,2024,December,12,Winter,4.0,51.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Oregon, USA",Temperate forest,2024,January,1,Winter,20.0,144.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Oregon, USA",Temperate forest,2024,February,2,Winter,11.0,104.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Oregon, USA",Temperate forest,2024,March,3,Spring,21.0,201.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Oregon, USA",Temperate forest,2024,April,4,Spring,9.0,114.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Oregon, USA",Temperate forest,2024,May,5,Spring,39.0,515.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Oregon, USA",Temperate forest,2024,June,6,Summer,20.0,222.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Oregon, USA",Temperate forest,2024,July,7,Summer,36.0,238.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Oregon, USA",Temperate forest,2024,August,8,Summer,69.0,292.3,High,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Oregon, USA",Temperate forest,2024,September,9,Autumn,29.0,423.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Oregon, USA",Temperate forest,2024,October,10,Autumn,19.0,252.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Oregon, USA",Temperate forest,2024,November,11,Autumn,20.0,222.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Oregon, USA",Temperate forest,2024,December,12,Winter,9.0,34.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Washington, USA",Temperate forest,2024,January,1,Winter,8.0,88.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Washington, USA",Temperate forest,2024,February,2,Winter,13.0,158.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Washington, USA",Temperate forest,2024,March,3,Spring,22.0,151.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Washington, USA",Temperate forest,2024,April,4,Spring,14.0,125.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Washington, USA",Temperate forest,2024,May,5,Spring,31.0,485.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Washington, USA",Temperate forest,2024,June,6,Summer,20.0,58.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Washington, USA",Temperate forest,2024,July,7,Summer,55.0,692.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Washington, USA",Temperate forest,2024,August,8,Summer,31.0,450.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Washington, USA",Temperate forest,2024,September,9,Autumn,47.0,706.1,High,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Washington, USA",Temperate forest,2024,October,10,Autumn,28.0,66.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Washington, USA",Temperate forest,2024,November,11,Autumn,15.0,140.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Washington, USA",Temperate forest,2024,December,12,Winter,3.0,30.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"British Columbia, Canada",Boreal/temperate,2024,January,1,Winter,17.0,155.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"British Columbia, Canada",Boreal/temperate,2024,February,2,Winter,4.0,27.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"British Columbia, Canada",Boreal/temperate,2024,March,3,Spring,22.0,74.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"British Columbia, Canada",Boreal/temperate,2024,April,4,Spring,17.0,295.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"British Columbia, Canada",Boreal/temperate,2024,May,5,Spring,18.0,112.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"British Columbia, Canada",Boreal/temperate,2024,June,6,Summer,90.0,1301.4,High,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"British Columbia, Canada",Boreal/temperate,2024,July,7,Summer,27.0,171.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"British Columbia, Canada",Boreal/temperate,2024,August,8,Summer,40.0,657.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"British Columbia, Canada",Boreal/temperate,2024,September,9,Autumn,11.0,75.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"British Columbia, Canada",Boreal/temperate,2024,October,10,Autumn,29.0,140.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"British Columbia, Canada",Boreal/temperate,2024,November,11,Autumn,34.0,459.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"British Columbia, Canada",Boreal/temperate,2024,December,12,Winter,13.0,156.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alberta, Canada",Boreal forest,2024,January,1,Winter,5.0,16.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alberta, Canada",Boreal forest,2024,February,2,Winter,10.0,26.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alberta, Canada",Boreal forest,2024,March,3,Spring,9.0,38.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alberta, Canada",Boreal forest,2024,April,4,Spring,14.0,159.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alberta, Canada",Boreal forest,2024,May,5,Spring,36.0,406.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alberta, Canada",Boreal forest,2024,June,6,Summer,21.0,240.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alberta, Canada",Boreal forest,2024,July,7,Summer,39.0,379.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alberta, Canada",Boreal forest,2024,August,8,Summer,16.0,53.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alberta, Canada",Boreal forest,2024,September,9,Autumn,21.0,357.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alberta, Canada",Boreal forest,2024,October,10,Autumn,31.0,296.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alberta, Canada",Boreal forest,2024,November,11,Autumn,38.0,392.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alberta, Canada",Boreal forest,2024,December,12,Winter,6.0,14.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Northwest Territories, Canada",Boreal forest,2024,January,1,Winter,9.0,38.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Northwest Territories, Canada",Boreal forest,2024,February,2,Winter,14.0,52.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Northwest Territories, Canada",Boreal forest,2024,March,3,Spring,20.0,251.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Northwest Territories, Canada",Boreal forest,2024,April,4,Spring,28.0,400.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Northwest Territories, Canada",Boreal forest,2024,May,5,Spring,18.0,102.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Northwest Territories, Canada",Boreal forest,2024,June,6,Summer,12.0,130.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Northwest Territories, Canada",Boreal forest,2024,July,7,Summer,57.0,851.1,High,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Northwest Territories, Canada",Boreal forest,2024,August,8,Summer,30.0,517.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Northwest Territories, Canada",Boreal forest,2024,September,9,Autumn,36.0,219.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Northwest Territories, Canada",Boreal forest,2024,October,10,Autumn,27.0,125.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Northwest Territories, Canada",Boreal forest,2024,November,11,Autumn,30.0,536.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Northwest Territories, Canada",Boreal forest,2024,December,12,Winter,4.0,55.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Quebec, Canada",Boreal forest,2024,January,1,Winter,17.0,175.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Quebec, Canada",Boreal forest,2024,February,2,Winter,12.0,172.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Quebec, Canada",Boreal forest,2024,March,3,Spring,14.0,49.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Quebec, Canada",Boreal forest,2024,April,4,Spring,28.0,173.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Quebec, Canada",Boreal forest,2024,May,5,Spring,5.0,19.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Quebec, Canada",Boreal forest,2024,June,6,Summer,85.0,378.5,High,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Quebec, Canada",Boreal forest,2024,July,7,Summer,62.0,991.6,High,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Quebec, Canada",Boreal forest,2024,August,8,Summer,18.0,125.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Quebec, Canada",Boreal forest,2024,September,9,Autumn,67.0,670.8,High,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Quebec, Canada",Boreal forest,2024,October,10,Autumn,31.0,68.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Quebec, Canada",Boreal forest,2024,November,11,Autumn,12.0,154.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Quebec, Canada",Boreal forest,2024,December,12,Winter,4.0,40.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Yukon, Canada",Boreal forest,2024,January,1,Winter,16.0,83.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Yukon, Canada",Boreal forest,2024,February,2,Winter,14.0,188.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Yukon, Canada",Boreal forest,2024,March,3,Spring,6.0,23.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Yukon, Canada",Boreal forest,2024,April,4,Spring,34.0,284.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Yukon, Canada",Boreal forest,2024,May,5,Spring,33.0,416.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Yukon, Canada",Boreal forest,2024,June,6,Summer,41.0,269.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Yukon, Canada",Boreal forest,2024,July,7,Summer,47.0,511.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Yukon, Canada",Boreal forest,2024,August,8,Summer,76.0,280.8,High,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Yukon, Canada",Boreal forest,2024,September,9,Autumn,37.0,646.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Yukon, Canada",Boreal forest,2024,October,10,Autumn,16.0,270.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Yukon, Canada",Boreal forest,2024,November,11,Autumn,39.0,567.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Yukon, Canada",Boreal forest,2024,December,12,Winter,9.0,33.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alaska, USA",Boreal forest,2024,January,1,Winter,8.0,45.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alaska, USA",Boreal forest,2024,February,2,Winter,14.0,163.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alaska, USA",Boreal forest,2024,March,3,Spring,34.0,292.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alaska, USA",Boreal forest,2024,April,4,Spring,27.0,238.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alaska, USA",Boreal forest,2024,May,5,Spring,11.0,101.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alaska, USA",Boreal forest,2024,June,6,Summer,43.0,248.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alaska, USA",Boreal forest,2024,July,7,Summer,89.0,327.9,High,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alaska, USA",Boreal forest,2024,August,8,Summer,40.0,460.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alaska, USA",Boreal forest,2024,September,9,Autumn,30.0,209.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alaska, USA",Boreal forest,2024,October,10,Autumn,11.0,184.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alaska, USA",Boreal forest,2024,November,11,Autumn,29.0,129.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Alaska, USA",Boreal forest,2024,December,12,Winter,4.0,9.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Texas, USA",Grassland/woodland,2024,January,1,Winter,12.0,34.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Texas, USA",Grassland/woodland,2024,February,2,Winter,5.0,64.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Texas, USA",Grassland/woodland,2024,March,3,Spring,31.0,312.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Texas, USA",Grassland/woodland,2024,April,4,Spring,27.0,421.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Texas, USA",Grassland/woodland,2024,May,5,Spring,20.0,115.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Texas, USA",Grassland/woodland,2024,June,6,Summer,16.0,178.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Texas, USA",Grassland/woodland,2024,July,7,Summer,63.0,502.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Texas, USA",Grassland/woodland,2024,August,8,Summer,50.0,181.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Texas, USA",Grassland/woodland,2024,September,9,Autumn,11.0,184.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Texas, USA",Grassland/woodland,2024,October,10,Autumn,41.0,635.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Texas, USA",Grassland/woodland,2024,November,11,Autumn,74.0,1097.6,High,SIMULATED / EDUCATIONAL — not observed fire records
+North America,"Texas, USA",Grassland/woodland,2024,December,12,Winter,22.0,270.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Amazonas, Brazil",Tropical rainforest,2024,January,1,Dry season (approx.),33.0,349.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Amazonas, Brazil",Tropical rainforest,2024,February,2,Dry season (approx.),55.0,864.7,High,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Amazonas, Brazil",Tropical rainforest,2024,March,3,Dry season (approx.),52.0,636.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Amazonas, Brazil",Tropical rainforest,2024,April,4,Dry season (approx.),31.0,131.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Amazonas, Brazil",Tropical rainforest,2024,May,5,Wet season (approx.),10.0,57.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Amazonas, Brazil",Tropical rainforest,2024,June,6,Wet season (approx.),10.0,78.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Amazonas, Brazil",Tropical rainforest,2024,July,7,Wet season (approx.),28.0,294.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Amazonas, Brazil",Tropical rainforest,2024,August,8,Wet season (approx.),8.0,137.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Amazonas, Brazil",Tropical rainforest,2024,September,9,Wet season (approx.),14.0,101.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Amazonas, Brazil",Tropical rainforest,2024,October,10,Wet season (approx.),19.0,296.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Amazonas, Brazil",Tropical rainforest,2024,November,11,Transition (approx.),28.0,294.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Amazonas, Brazil",Tropical rainforest,2024,December,12,Dry season (approx.),52.0,343.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Mato Grosso, Brazil",Tropical forest/savanna,2024,January,1,Summer,24.0,314.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Mato Grosso, Brazil",Tropical forest/savanna,2024,February,2,Summer,94.0,386.7,High,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Mato Grosso, Brazil",Tropical forest/savanna,2024,March,3,Autumn,46.0,626.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Mato Grosso, Brazil",Tropical forest/savanna,2024,April,4,Autumn,32.0,543.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Mato Grosso, Brazil",Tropical forest/savanna,2024,May,5,Autumn,67.0,992.5,High,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Mato Grosso, Brazil",Tropical forest/savanna,2024,June,6,Winter,6.0,87.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Mato Grosso, Brazil",Tropical forest/savanna,2024,July,7,Winter,26.0,157.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Mato Grosso, Brazil",Tropical forest/savanna,2024,August,8,Winter,18.0,63.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Mato Grosso, Brazil",Tropical forest/savanna,2024,September,9,Spring,20.0,220.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Mato Grosso, Brazil",Tropical forest/savanna,2024,October,10,Spring,31.0,293.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Mato Grosso, Brazil",Tropical forest/savanna,2024,November,11,Spring,38.0,561.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Mato Grosso, Brazil",Tropical forest/savanna,2024,December,12,Summer,58.0,672.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Para, Brazil",Tropical rainforest,2024,January,1,Summer,16.0,62.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Para, Brazil",Tropical rainforest,2024,February,2,Summer,49.0,613.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Para, Brazil",Tropical rainforest,2024,March,3,Autumn,47.0,598.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Para, Brazil",Tropical rainforest,2024,April,4,Autumn,23.0,376.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Para, Brazil",Tropical rainforest,2024,May,5,Autumn,37.0,289.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Para, Brazil",Tropical rainforest,2024,June,6,Winter,11.0,49.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Para, Brazil",Tropical rainforest,2024,July,7,Winter,20.0,180.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Para, Brazil",Tropical rainforest,2024,August,8,Winter,4.0,54.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Para, Brazil",Tropical rainforest,2024,September,9,Spring,14.0,202.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Para, Brazil",Tropical rainforest,2024,October,10,Spring,21.0,168.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Para, Brazil",Tropical rainforest,2024,November,11,Spring,28.0,482.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Para, Brazil",Tropical rainforest,2024,December,12,Summer,53.0,827.3,High,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Santa Cruz, Bolivia",Tropical dry forest,2024,January,1,Summer,63.0,719.0,High,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Santa Cruz, Bolivia",Tropical dry forest,2024,February,2,Summer,75.0,164.8,High,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Santa Cruz, Bolivia",Tropical dry forest,2024,March,3,Autumn,20.0,134.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Santa Cruz, Bolivia",Tropical dry forest,2024,April,4,Autumn,35.0,317.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Santa Cruz, Bolivia",Tropical dry forest,2024,May,5,Autumn,15.0,217.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Santa Cruz, Bolivia",Tropical dry forest,2024,June,6,Winter,6.0,107.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Santa Cruz, Bolivia",Tropical dry forest,2024,July,7,Winter,3.0,46.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Santa Cruz, Bolivia",Tropical dry forest,2024,August,8,Winter,13.0,233.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Santa Cruz, Bolivia",Tropical dry forest,2024,September,9,Spring,9.0,31.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Santa Cruz, Bolivia",Tropical dry forest,2024,October,10,Spring,40.0,98.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Santa Cruz, Bolivia",Tropical dry forest,2024,November,11,Spring,12.0,173.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Santa Cruz, Bolivia",Tropical dry forest,2024,December,12,Summer,27.0,447.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Chaco, Paraguay",Dry forest,2024,January,1,Summer,26.0,54.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Chaco, Paraguay",Dry forest,2024,February,2,Summer,47.0,549.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Chaco, Paraguay",Dry forest,2024,March,3,Autumn,54.0,841.9,High,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Chaco, Paraguay",Dry forest,2024,April,4,Autumn,38.0,563.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Chaco, Paraguay",Dry forest,2024,May,5,Autumn,77.0,1014.1,High,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Chaco, Paraguay",Dry forest,2024,June,6,Winter,24.0,63.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Chaco, Paraguay",Dry forest,2024,July,7,Winter,8.0,80.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Chaco, Paraguay",Dry forest,2024,August,8,Winter,8.0,96.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Chaco, Paraguay",Dry forest,2024,September,9,Spring,8.0,110.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Chaco, Paraguay",Dry forest,2024,October,10,Spring,30.0,190.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Chaco, Paraguay",Dry forest,2024,November,11,Spring,14.0,165.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Chaco, Paraguay",Dry forest,2024,December,12,Summer,50.0,593.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Corrientes, Argentina",Wetland/grassland,2024,January,1,Summer,17.0,227.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Corrientes, Argentina",Wetland/grassland,2024,February,2,Summer,11.0,38.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Corrientes, Argentina",Wetland/grassland,2024,March,3,Autumn,55.0,513.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Corrientes, Argentina",Wetland/grassland,2024,April,4,Autumn,19.0,231.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Corrientes, Argentina",Wetland/grassland,2024,May,5,Autumn,35.0,599.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Corrientes, Argentina",Wetland/grassland,2024,June,6,Winter,9.0,101.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Corrientes, Argentina",Wetland/grassland,2024,July,7,Winter,10.0,170.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Corrientes, Argentina",Wetland/grassland,2024,August,8,Winter,9.0,91.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Corrientes, Argentina",Wetland/grassland,2024,September,9,Spring,24.0,93.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Corrientes, Argentina",Wetland/grassland,2024,October,10,Spring,12.0,77.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Corrientes, Argentina",Wetland/grassland,2024,November,11,Spring,8.0,94.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Corrientes, Argentina",Wetland/grassland,2024,December,12,Summer,34.0,292.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Valparaiso, Chile",Mediterranean forest,2024,January,1,Summer,17.0,194.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Valparaiso, Chile",Mediterranean forest,2024,February,2,Summer,33.0,85.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Valparaiso, Chile",Mediterranean forest,2024,March,3,Autumn,21.0,117.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Valparaiso, Chile",Mediterranean forest,2024,April,4,Autumn,28.0,309.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Valparaiso, Chile",Mediterranean forest,2024,May,5,Autumn,37.0,460.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Valparaiso, Chile",Mediterranean forest,2024,June,6,Winter,10.0,146.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Valparaiso, Chile",Mediterranean forest,2024,July,7,Winter,7.0,84.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Valparaiso, Chile",Mediterranean forest,2024,August,8,Winter,9.0,91.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Valparaiso, Chile",Mediterranean forest,2024,September,9,Spring,35.0,585.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Valparaiso, Chile",Mediterranean forest,2024,October,10,Spring,26.0,268.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Valparaiso, Chile",Mediterranean forest,2024,November,11,Spring,11.0,169.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Valparaiso, Chile",Mediterranean forest,2024,December,12,Summer,61.0,235.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Biobio, Chile",Temperate forest,2024,January,1,Summer,20.0,57.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Biobio, Chile",Temperate forest,2024,February,2,Summer,14.0,102.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Biobio, Chile",Temperate forest,2024,March,3,Autumn,26.0,361.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Biobio, Chile",Temperate forest,2024,April,4,Autumn,11.0,167.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Biobio, Chile",Temperate forest,2024,May,5,Autumn,36.0,160.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Biobio, Chile",Temperate forest,2024,June,6,Winter,15.0,58.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Biobio, Chile",Temperate forest,2024,July,7,Winter,12.0,215.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Biobio, Chile",Temperate forest,2024,August,8,Winter,9.0,62.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Biobio, Chile",Temperate forest,2024,September,9,Spring,31.0,254.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Biobio, Chile",Temperate forest,2024,October,10,Spring,27.0,58.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Biobio, Chile",Temperate forest,2024,November,11,Spring,24.0,110.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Biobio, Chile",Temperate forest,2024,December,12,Summer,19.0,292.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,Peru Madre de Dios,Tropical rainforest,2024,January,1,Dry season (approx.),65.0,1002.6,High,SIMULATED / EDUCATIONAL — not observed fire records
+South America,Peru Madre de Dios,Tropical rainforest,2024,February,2,Dry season (approx.),89.0,379.6,High,SIMULATED / EDUCATIONAL — not observed fire records
+South America,Peru Madre de Dios,Tropical rainforest,2024,March,3,Dry season (approx.),36.0,118.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,Peru Madre de Dios,Tropical rainforest,2024,April,4,Dry season (approx.),42.0,375.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,Peru Madre de Dios,Tropical rainforest,2024,May,5,Wet season (approx.),8.0,39.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,Peru Madre de Dios,Tropical rainforest,2024,June,6,Wet season (approx.),14.0,38.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,Peru Madre de Dios,Tropical rainforest,2024,July,7,Wet season (approx.),12.0,118.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,Peru Madre de Dios,Tropical rainforest,2024,August,8,Wet season (approx.),8.0,79.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,Peru Madre de Dios,Tropical rainforest,2024,September,9,Wet season (approx.),3.0,46.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,Peru Madre de Dios,Tropical rainforest,2024,October,10,Wet season (approx.),5.0,61.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,Peru Madre de Dios,Tropical rainforest,2024,November,11,Transition (approx.),25.0,73.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,Peru Madre de Dios,Tropical rainforest,2024,December,12,Dry season (approx.),44.0,467.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Roraima, Brazil",Savanna/forest,2024,January,1,Summer,106.0,1030.4,High,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Roraima, Brazil",Savanna/forest,2024,February,2,Summer,51.0,797.2,High,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Roraima, Brazil",Savanna/forest,2024,March,3,Autumn,40.0,455.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Roraima, Brazil",Savanna/forest,2024,April,4,Autumn,48.0,357.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Roraima, Brazil",Savanna/forest,2024,May,5,Autumn,44.0,161.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Roraima, Brazil",Savanna/forest,2024,June,6,Winter,11.0,183.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Roraima, Brazil",Savanna/forest,2024,July,7,Winter,11.0,81.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Roraima, Brazil",Savanna/forest,2024,August,8,Winter,11.0,26.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Roraima, Brazil",Savanna/forest,2024,September,9,Spring,28.0,193.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Roraima, Brazil",Savanna/forest,2024,October,10,Spring,44.0,93.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Roraima, Brazil",Savanna/forest,2024,November,11,Spring,26.0,315.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+South America,"Roraima, Brazil",Savanna/forest,2024,December,12,Summer,52.0,620.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Portugal central region,Mediterranean forest,2024,January,1,Winter,17.0,279.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Portugal central region,Mediterranean forest,2024,February,2,Winter,10.0,174.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Portugal central region,Mediterranean forest,2024,March,3,Spring,29.0,110.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Portugal central region,Mediterranean forest,2024,April,4,Spring,31.0,280.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Portugal central region,Mediterranean forest,2024,May,5,Spring,27.0,473.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Portugal central region,Mediterranean forest,2024,June,6,Summer,29.0,279.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Portugal central region,Mediterranean forest,2024,July,7,Summer,74.0,558.2,High,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Portugal central region,Mediterranean forest,2024,August,8,Summer,43.0,114.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Portugal central region,Mediterranean forest,2024,September,9,Autumn,30.0,533.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Portugal central region,Mediterranean forest,2024,October,10,Autumn,40.0,705.9,High,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Portugal central region,Mediterranean forest,2024,November,11,Autumn,22.0,73.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Portugal central region,Mediterranean forest,2024,December,12,Winter,8.0,118.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Galicia, Spain",Temperate/Mediterranean,2024,January,1,Winter,7.0,18.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Galicia, Spain",Temperate/Mediterranean,2024,February,2,Winter,13.0,36.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Galicia, Spain",Temperate/Mediterranean,2024,March,3,Spring,18.0,241.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Galicia, Spain",Temperate/Mediterranean,2024,April,4,Spring,11.0,174.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Galicia, Spain",Temperate/Mediterranean,2024,May,5,Spring,32.0,89.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Galicia, Spain",Temperate/Mediterranean,2024,June,6,Summer,47.0,561.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Galicia, Spain",Temperate/Mediterranean,2024,July,7,Summer,17.0,174.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Galicia, Spain",Temperate/Mediterranean,2024,August,8,Summer,72.0,178.1,High,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Galicia, Spain",Temperate/Mediterranean,2024,September,9,Autumn,53.0,675.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Galicia, Spain",Temperate/Mediterranean,2024,October,10,Autumn,21.0,328.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Galicia, Spain",Temperate/Mediterranean,2024,November,11,Autumn,39.0,264.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Galicia, Spain",Temperate/Mediterranean,2024,December,12,Winter,7.0,58.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Catalonia, Spain",Mediterranean forest,2024,January,1,Winter,5.0,25.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Catalonia, Spain",Mediterranean forest,2024,February,2,Winter,4.0,29.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Catalonia, Spain",Mediterranean forest,2024,March,3,Spring,22.0,395.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Catalonia, Spain",Mediterranean forest,2024,April,4,Spring,22.0,187.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Catalonia, Spain",Mediterranean forest,2024,May,5,Spring,21.0,377.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Catalonia, Spain",Mediterranean forest,2024,June,6,Summer,24.0,276.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Catalonia, Spain",Mediterranean forest,2024,July,7,Summer,21.0,209.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Catalonia, Spain",Mediterranean forest,2024,August,8,Summer,27.0,211.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Catalonia, Spain",Mediterranean forest,2024,September,9,Autumn,10.0,22.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Catalonia, Spain",Mediterranean forest,2024,October,10,Autumn,11.0,133.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Catalonia, Spain",Mediterranean forest,2024,November,11,Autumn,43.0,745.9,High,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Catalonia, Spain",Mediterranean forest,2024,December,12,Winter,8.0,85.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sardinia, Italy",Mediterranean forest,2024,January,1,Winter,20.0,115.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sardinia, Italy",Mediterranean forest,2024,February,2,Winter,6.0,99.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sardinia, Italy",Mediterranean forest,2024,March,3,Spring,17.0,194.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sardinia, Italy",Mediterranean forest,2024,April,4,Spring,22.0,149.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sardinia, Italy",Mediterranean forest,2024,May,5,Spring,26.0,116.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sardinia, Italy",Mediterranean forest,2024,June,6,Summer,33.0,215.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sardinia, Italy",Mediterranean forest,2024,July,7,Summer,20.0,290.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sardinia, Italy",Mediterranean forest,2024,August,8,Summer,44.0,423.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sardinia, Italy",Mediterranean forest,2024,September,9,Autumn,55.0,826.9,High,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sardinia, Italy",Mediterranean forest,2024,October,10,Autumn,65.0,949.1,High,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sardinia, Italy",Mediterranean forest,2024,November,11,Autumn,30.0,108.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sardinia, Italy",Mediterranean forest,2024,December,12,Winter,5.0,86.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sicily, Italy",Mediterranean forest,2024,January,1,Winter,12.0,30.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sicily, Italy",Mediterranean forest,2024,February,2,Winter,12.0,43.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sicily, Italy",Mediterranean forest,2024,March,3,Spring,11.0,33.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sicily, Italy",Mediterranean forest,2024,April,4,Spring,7.0,71.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sicily, Italy",Mediterranean forest,2024,May,5,Spring,19.0,71.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sicily, Italy",Mediterranean forest,2024,June,6,Summer,29.0,86.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sicily, Italy",Mediterranean forest,2024,July,7,Summer,54.0,369.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sicily, Italy",Mediterranean forest,2024,August,8,Summer,50.0,433.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sicily, Italy",Mediterranean forest,2024,September,9,Autumn,11.0,173.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sicily, Italy",Mediterranean forest,2024,October,10,Autumn,6.0,60.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sicily, Italy",Mediterranean forest,2024,November,11,Autumn,18.0,160.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Sicily, Italy",Mediterranean forest,2024,December,12,Winter,11.0,170.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Greece, Peloponnese",Mediterranean forest,2024,January,1,Winter,8.0,47.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Greece, Peloponnese",Mediterranean forest,2024,February,2,Winter,6.0,77.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Greece, Peloponnese",Mediterranean forest,2024,March,3,Spring,13.0,219.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Greece, Peloponnese",Mediterranean forest,2024,April,4,Spring,8.0,75.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Greece, Peloponnese",Mediterranean forest,2024,May,5,Spring,22.0,60.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Greece, Peloponnese",Mediterranean forest,2024,June,6,Summer,42.0,701.4,High,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Greece, Peloponnese",Mediterranean forest,2024,July,7,Summer,14.0,35.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Greece, Peloponnese",Mediterranean forest,2024,August,8,Summer,10.0,119.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Greece, Peloponnese",Mediterranean forest,2024,September,9,Autumn,30.0,343.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Greece, Peloponnese",Mediterranean forest,2024,October,10,Autumn,23.0,47.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Greece, Peloponnese",Mediterranean forest,2024,November,11,Autumn,22.0,101.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,"Greece, Peloponnese",Mediterranean forest,2024,December,12,Winter,16.0,251.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Croatia Dalmatian coast,Mediterranean forest,2024,January,1,Winter,8.0,74.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Croatia Dalmatian coast,Mediterranean forest,2024,February,2,Winter,6.0,106.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Croatia Dalmatian coast,Mediterranean forest,2024,March,3,Spring,9.0,63.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Croatia Dalmatian coast,Mediterranean forest,2024,April,4,Spring,19.0,220.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Croatia Dalmatian coast,Mediterranean forest,2024,May,5,Spring,13.0,92.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Croatia Dalmatian coast,Mediterranean forest,2024,June,6,Summer,19.0,47.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Croatia Dalmatian coast,Mediterranean forest,2024,July,7,Summer,38.0,176.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Croatia Dalmatian coast,Mediterranean forest,2024,August,8,Summer,38.0,506.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Croatia Dalmatian coast,Mediterranean forest,2024,September,9,Autumn,19.0,308.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Croatia Dalmatian coast,Mediterranean forest,2024,October,10,Autumn,43.0,172.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Croatia Dalmatian coast,Mediterranean forest,2024,November,11,Autumn,47.0,224.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Croatia Dalmatian coast,Mediterranean forest,2024,December,12,Winter,5.0,89.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Romania Carpathians,Temperate forest,2024,January,1,Winter,4.0,71.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Romania Carpathians,Temperate forest,2024,February,2,Winter,3.0,12.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Romania Carpathians,Temperate forest,2024,March,3,Spring,28.0,296.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Romania Carpathians,Temperate forest,2024,April,4,Spring,33.0,210.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Romania Carpathians,Temperate forest,2024,May,5,Spring,27.0,181.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Romania Carpathians,Temperate forest,2024,June,6,Summer,17.0,261.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Romania Carpathians,Temperate forest,2024,July,7,Summer,26.0,148.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Romania Carpathians,Temperate forest,2024,August,8,Summer,17.0,103.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Romania Carpathians,Temperate forest,2024,September,9,Autumn,36.0,300.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Romania Carpathians,Temperate forest,2024,October,10,Autumn,39.0,530.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Romania Carpathians,Temperate forest,2024,November,11,Autumn,49.0,869.0,High,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Romania Carpathians,Temperate forest,2024,December,12,Winter,9.0,92.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Sweden central region,Boreal forest,2024,January,1,Winter,18.0,185.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Sweden central region,Boreal forest,2024,February,2,Winter,3.0,10.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Sweden central region,Boreal forest,2024,March,3,Spring,25.0,323.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Sweden central region,Boreal forest,2024,April,4,Spring,23.0,399.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Sweden central region,Boreal forest,2024,May,5,Spring,10.0,157.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Sweden central region,Boreal forest,2024,June,6,Summer,30.0,161.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Sweden central region,Boreal forest,2024,July,7,Summer,38.0,610.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Sweden central region,Boreal forest,2024,August,8,Summer,38.0,390.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Sweden central region,Boreal forest,2024,September,9,Autumn,15.0,217.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Sweden central region,Boreal forest,2024,October,10,Autumn,42.0,154.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Sweden central region,Boreal forest,2024,November,11,Autumn,52.0,768.0,High,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Sweden central region,Boreal forest,2024,December,12,Winter,10.0,52.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Finland Lapland,Boreal forest,2024,January,1,Winter,5.0,88.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Finland Lapland,Boreal forest,2024,February,2,Winter,11.0,148.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Finland Lapland,Boreal forest,2024,March,3,Spring,29.0,206.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Finland Lapland,Boreal forest,2024,April,4,Spring,32.0,361.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Finland Lapland,Boreal forest,2024,May,5,Spring,18.0,305.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Finland Lapland,Boreal forest,2024,June,6,Summer,37.0,190.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Finland Lapland,Boreal forest,2024,July,7,Summer,31.0,127.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Finland Lapland,Boreal forest,2024,August,8,Summer,26.0,336.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Finland Lapland,Boreal forest,2024,September,9,Autumn,14.0,82.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Finland Lapland,Boreal forest,2024,October,10,Autumn,17.0,239.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Finland Lapland,Boreal forest,2024,November,11,Autumn,28.0,146.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Europe,Finland Lapland,Boreal forest,2024,December,12,Winter,11.0,113.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Western Cape, South Africa",Fynbos/shrubland,2024,January,1,Summer,14.0,38.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Western Cape, South Africa",Fynbos/shrubland,2024,February,2,Summer,41.0,711.3,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Western Cape, South Africa",Fynbos/shrubland,2024,March,3,Autumn,19.0,71.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Western Cape, South Africa",Fynbos/shrubland,2024,April,4,Autumn,30.0,201.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Western Cape, South Africa",Fynbos/shrubland,2024,May,5,Autumn,17.0,141.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Western Cape, South Africa",Fynbos/shrubland,2024,June,6,Winter,17.0,301.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Western Cape, South Africa",Fynbos/shrubland,2024,July,7,Winter,5.0,21.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Western Cape, South Africa",Fynbos/shrubland,2024,August,8,Winter,13.0,141.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Western Cape, South Africa",Fynbos/shrubland,2024,September,9,Spring,21.0,249.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Western Cape, South Africa",Fynbos/shrubland,2024,October,10,Spring,8.0,37.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Western Cape, South Africa",Fynbos/shrubland,2024,November,11,Spring,6.0,93.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Western Cape, South Africa",Fynbos/shrubland,2024,December,12,Summer,30.0,412.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Eastern Cape, South Africa",Grassland/forest,2024,January,1,Summer,53.0,449.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Eastern Cape, South Africa",Grassland/forest,2024,February,2,Summer,35.0,502.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Eastern Cape, South Africa",Grassland/forest,2024,March,3,Autumn,14.0,55.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Eastern Cape, South Africa",Grassland/forest,2024,April,4,Autumn,22.0,79.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Eastern Cape, South Africa",Grassland/forest,2024,May,5,Autumn,31.0,151.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Eastern Cape, South Africa",Grassland/forest,2024,June,6,Winter,6.0,55.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Eastern Cape, South Africa",Grassland/forest,2024,July,7,Winter,6.0,93.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Eastern Cape, South Africa",Grassland/forest,2024,August,8,Winter,8.0,59.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Eastern Cape, South Africa",Grassland/forest,2024,September,9,Spring,17.0,100.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Eastern Cape, South Africa",Grassland/forest,2024,October,10,Spring,15.0,255.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Eastern Cape, South Africa",Grassland/forest,2024,November,11,Spring,9.0,92.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Eastern Cape, South Africa",Grassland/forest,2024,December,12,Summer,66.0,691.4,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Miombo woodland, Zambia",Tropical woodland,2024,January,1,Summer,45.0,184.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Miombo woodland, Zambia",Tropical woodland,2024,February,2,Summer,43.0,741.1,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Miombo woodland, Zambia",Tropical woodland,2024,March,3,Autumn,22.0,101.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Miombo woodland, Zambia",Tropical woodland,2024,April,4,Autumn,39.0,207.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Miombo woodland, Zambia",Tropical woodland,2024,May,5,Autumn,14.0,54.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Miombo woodland, Zambia",Tropical woodland,2024,June,6,Winter,10.0,71.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Miombo woodland, Zambia",Tropical woodland,2024,July,7,Winter,18.0,151.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Miombo woodland, Zambia",Tropical woodland,2024,August,8,Winter,14.0,69.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Miombo woodland, Zambia",Tropical woodland,2024,September,9,Spring,46.0,637.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Miombo woodland, Zambia",Tropical woodland,2024,October,10,Spring,42.0,186.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Miombo woodland, Zambia",Tropical woodland,2024,November,11,Spring,33.0,92.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Miombo woodland, Zambia",Tropical woodland,2024,December,12,Summer,80.0,1176.9,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Angola central highlands,Tropical woodland,2024,January,1,Summer,81.0,1190.6,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Angola central highlands,Tropical woodland,2024,February,2,Summer,53.0,889.4,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Angola central highlands,Tropical woodland,2024,March,3,Autumn,44.0,89.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Angola central highlands,Tropical woodland,2024,April,4,Autumn,48.0,311.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Angola central highlands,Tropical woodland,2024,May,5,Autumn,58.0,235.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Angola central highlands,Tropical woodland,2024,June,6,Winter,3.0,36.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Angola central highlands,Tropical woodland,2024,July,7,Winter,15.0,106.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Angola central highlands,Tropical woodland,2024,August,8,Winter,12.0,112.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Angola central highlands,Tropical woodland,2024,September,9,Spring,20.0,191.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Angola central highlands,Tropical woodland,2024,October,10,Spring,41.0,306.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Angola central highlands,Tropical woodland,2024,November,11,Spring,31.0,481.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Angola central highlands,Tropical woodland,2024,December,12,Summer,20.0,183.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Congo Basin, DRC",Tropical rainforest,2024,January,1,Summer,35.0,625.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Congo Basin, DRC",Tropical rainforest,2024,February,2,Summer,69.0,866.6,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Congo Basin, DRC",Tropical rainforest,2024,March,3,Autumn,21.0,165.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Congo Basin, DRC",Tropical rainforest,2024,April,4,Autumn,25.0,211.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Congo Basin, DRC",Tropical rainforest,2024,May,5,Autumn,54.0,547.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Congo Basin, DRC",Tropical rainforest,2024,June,6,Winter,13.0,113.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Congo Basin, DRC",Tropical rainforest,2024,July,7,Winter,5.0,42.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Congo Basin, DRC",Tropical rainforest,2024,August,8,Winter,10.0,40.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Congo Basin, DRC",Tropical rainforest,2024,September,9,Spring,32.0,399.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Congo Basin, DRC",Tropical rainforest,2024,October,10,Spring,9.0,20.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Congo Basin, DRC",Tropical rainforest,2024,November,11,Spring,24.0,346.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,"Congo Basin, DRC",Tropical rainforest,2024,December,12,Summer,41.0,243.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Gabon interior,Tropical rainforest,2024,January,1,Summer,50.0,320.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Gabon interior,Tropical rainforest,2024,February,2,Summer,39.0,254.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Gabon interior,Tropical rainforest,2024,March,3,Autumn,27.0,141.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Gabon interior,Tropical rainforest,2024,April,4,Autumn,38.0,502.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Gabon interior,Tropical rainforest,2024,May,5,Autumn,45.0,273.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Gabon interior,Tropical rainforest,2024,June,6,Winter,16.0,114.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Gabon interior,Tropical rainforest,2024,July,7,Winter,11.0,142.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Gabon interior,Tropical rainforest,2024,August,8,Winter,10.0,84.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Gabon interior,Tropical rainforest,2024,September,9,Spring,27.0,245.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Gabon interior,Tropical rainforest,2024,October,10,Spring,39.0,610.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Gabon interior,Tropical rainforest,2024,November,11,Spring,15.0,147.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Gabon interior,Tropical rainforest,2024,December,12,Summer,34.0,249.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Ghana northern region,Savanna woodland,2024,January,1,Summer,102.0,1711.8,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Ghana northern region,Savanna woodland,2024,February,2,Summer,45.0,794.3,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Ghana northern region,Savanna woodland,2024,March,3,Autumn,14.0,198.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Ghana northern region,Savanna woodland,2024,April,4,Autumn,52.0,483.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Ghana northern region,Savanna woodland,2024,May,5,Autumn,54.0,358.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Ghana northern region,Savanna woodland,2024,June,6,Winter,6.0,68.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Ghana northern region,Savanna woodland,2024,July,7,Winter,8.0,120.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Ghana northern region,Savanna woodland,2024,August,8,Winter,13.0,60.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Ghana northern region,Savanna woodland,2024,September,9,Spring,18.0,265.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Ghana northern region,Savanna woodland,2024,October,10,Spring,10.0,42.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Ghana northern region,Savanna woodland,2024,November,11,Spring,24.0,197.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Ghana northern region,Savanna woodland,2024,December,12,Summer,104.0,528.5,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Nigeria middle belt,Savanna woodland,2024,January,1,Summer,85.0,1012.7,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Nigeria middle belt,Savanna woodland,2024,February,2,Summer,36.0,637.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Nigeria middle belt,Savanna woodland,2024,March,3,Autumn,35.0,512.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Nigeria middle belt,Savanna woodland,2024,April,4,Autumn,13.0,210.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Nigeria middle belt,Savanna woodland,2024,May,5,Autumn,17.0,260.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Nigeria middle belt,Savanna woodland,2024,June,6,Winter,11.0,96.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Nigeria middle belt,Savanna woodland,2024,July,7,Winter,12.0,155.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Nigeria middle belt,Savanna woodland,2024,August,8,Winter,14.0,250.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Nigeria middle belt,Savanna woodland,2024,September,9,Spring,8.0,28.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Nigeria middle belt,Savanna woodland,2024,October,10,Spring,50.0,881.3,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Nigeria middle belt,Savanna woodland,2024,November,11,Spring,18.0,158.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Nigeria middle belt,Savanna woodland,2024,December,12,Summer,28.0,357.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Kenya central highlands,Montane forest,2024,January,1,Summer,71.0,1087.3,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Kenya central highlands,Montane forest,2024,February,2,Summer,42.0,364.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Kenya central highlands,Montane forest,2024,March,3,Autumn,30.0,444.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Kenya central highlands,Montane forest,2024,April,4,Autumn,22.0,358.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Kenya central highlands,Montane forest,2024,May,5,Autumn,25.0,88.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Kenya central highlands,Montane forest,2024,June,6,Winter,3.0,31.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Kenya central highlands,Montane forest,2024,July,7,Winter,4.0,8.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Kenya central highlands,Montane forest,2024,August,8,Winter,3.0,43.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Kenya central highlands,Montane forest,2024,September,9,Spring,9.0,136.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Kenya central highlands,Montane forest,2024,October,10,Spring,5.0,21.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Kenya central highlands,Montane forest,2024,November,11,Spring,9.0,95.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Kenya central highlands,Montane forest,2024,December,12,Summer,79.0,275.2,High,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Tanzania miombo belt,Tropical woodland,2024,January,1,Summer,58.0,354.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Tanzania miombo belt,Tropical woodland,2024,February,2,Summer,56.0,563.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Tanzania miombo belt,Tropical woodland,2024,March,3,Autumn,39.0,307.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Tanzania miombo belt,Tropical woodland,2024,April,4,Autumn,42.0,224.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Tanzania miombo belt,Tropical woodland,2024,May,5,Autumn,35.0,118.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Tanzania miombo belt,Tropical woodland,2024,June,6,Winter,12.0,57.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Tanzania miombo belt,Tropical woodland,2024,July,7,Winter,4.0,71.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Tanzania miombo belt,Tropical woodland,2024,August,8,Winter,13.0,161.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Tanzania miombo belt,Tropical woodland,2024,September,9,Spring,13.0,208.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Tanzania miombo belt,Tropical woodland,2024,October,10,Spring,31.0,494.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Tanzania miombo belt,Tropical woodland,2024,November,11,Spring,19.0,237.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Africa,Tanzania miombo belt,Tropical woodland,2024,December,12,Summer,27.0,371.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Uttarakhand, India",Himalayan forest,2024,January,1,Winter,3.0,45.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Uttarakhand, India",Himalayan forest,2024,February,2,Winter,11.0,26.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Uttarakhand, India",Himalayan forest,2024,March,3,Spring,22.0,215.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Uttarakhand, India",Himalayan forest,2024,April,4,Spring,18.0,175.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Uttarakhand, India",Himalayan forest,2024,May,5,Spring,16.0,175.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Uttarakhand, India",Himalayan forest,2024,June,6,Summer,55.0,348.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Uttarakhand, India",Himalayan forest,2024,July,7,Summer,17.0,187.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Uttarakhand, India",Himalayan forest,2024,August,8,Summer,50.0,152.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Uttarakhand, India",Himalayan forest,2024,September,9,Autumn,19.0,309.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Uttarakhand, India",Himalayan forest,2024,October,10,Autumn,10.0,47.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Uttarakhand, India",Himalayan forest,2024,November,11,Autumn,44.0,423.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Uttarakhand, India",Himalayan forest,2024,December,12,Winter,18.0,53.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Himachal Pradesh, India",Himalayan forest,2024,January,1,Winter,7.0,35.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Himachal Pradesh, India",Himalayan forest,2024,February,2,Winter,6.0,32.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Himachal Pradesh, India",Himalayan forest,2024,March,3,Spring,24.0,210.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Himachal Pradesh, India",Himalayan forest,2024,April,4,Spring,6.0,24.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Himachal Pradesh, India",Himalayan forest,2024,May,5,Spring,21.0,163.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Himachal Pradesh, India",Himalayan forest,2024,June,6,Summer,44.0,339.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Himachal Pradesh, India",Himalayan forest,2024,July,7,Summer,36.0,190.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Himachal Pradesh, India",Himalayan forest,2024,August,8,Summer,36.0,607.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Himachal Pradesh, India",Himalayan forest,2024,September,9,Autumn,28.0,107.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Himachal Pradesh, India",Himalayan forest,2024,October,10,Autumn,14.0,55.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Himachal Pradesh, India",Himalayan forest,2024,November,11,Autumn,20.0,302.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Himachal Pradesh, India",Himalayan forest,2024,December,12,Winter,14.0,251.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Telangana, India",Dry deciduous forest,2024,January,1,Dry season (approx.),44.0,316.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Telangana, India",Dry deciduous forest,2024,February,2,Dry season (approx.),23.0,258.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Telangana, India",Dry deciduous forest,2024,March,3,Dry season (approx.),62.0,1094.8,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Telangana, India",Dry deciduous forest,2024,April,4,Dry season (approx.),72.0,712.7,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Telangana, India",Dry deciduous forest,2024,May,5,Wet season (approx.),10.0,83.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Telangana, India",Dry deciduous forest,2024,June,6,Wet season (approx.),27.0,109.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Telangana, India",Dry deciduous forest,2024,July,7,Wet season (approx.),15.0,54.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Telangana, India",Dry deciduous forest,2024,August,8,Wet season (approx.),14.0,160.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Telangana, India",Dry deciduous forest,2024,September,9,Wet season (approx.),16.0,142.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Telangana, India",Dry deciduous forest,2024,October,10,Wet season (approx.),13.0,218.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Telangana, India",Dry deciduous forest,2024,November,11,Transition (approx.),40.0,290.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Telangana, India",Dry deciduous forest,2024,December,12,Dry season (approx.),79.0,875.9,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Madhya Pradesh, India",Dry deciduous forest,2024,January,1,Dry season (approx.),48.0,521.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Madhya Pradesh, India",Dry deciduous forest,2024,February,2,Dry season (approx.),43.0,323.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Madhya Pradesh, India",Dry deciduous forest,2024,March,3,Dry season (approx.),14.0,65.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Madhya Pradesh, India",Dry deciduous forest,2024,April,4,Dry season (approx.),50.0,411.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Madhya Pradesh, India",Dry deciduous forest,2024,May,5,Wet season (approx.),24.0,338.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Madhya Pradesh, India",Dry deciduous forest,2024,June,6,Wet season (approx.),7.0,106.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Madhya Pradesh, India",Dry deciduous forest,2024,July,7,Wet season (approx.),27.0,343.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Madhya Pradesh, India",Dry deciduous forest,2024,August,8,Wet season (approx.),17.0,291.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Madhya Pradesh, India",Dry deciduous forest,2024,September,9,Wet season (approx.),30.0,337.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Madhya Pradesh, India",Dry deciduous forest,2024,October,10,Wet season (approx.),8.0,20.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Madhya Pradesh, India",Dry deciduous forest,2024,November,11,Transition (approx.),51.0,123.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Madhya Pradesh, India",Dry deciduous forest,2024,December,12,Dry season (approx.),75.0,1172.6,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Odisha, India",Tropical deciduous forest,2024,January,1,Dry season (approx.),23.0,48.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Odisha, India",Tropical deciduous forest,2024,February,2,Dry season (approx.),47.0,342.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Odisha, India",Tropical deciduous forest,2024,March,3,Dry season (approx.),55.0,607.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Odisha, India",Tropical deciduous forest,2024,April,4,Dry season (approx.),50.0,228.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Odisha, India",Tropical deciduous forest,2024,May,5,Wet season (approx.),11.0,116.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Odisha, India",Tropical deciduous forest,2024,June,6,Wet season (approx.),21.0,365.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Odisha, India",Tropical deciduous forest,2024,July,7,Wet season (approx.),13.0,149.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Odisha, India",Tropical deciduous forest,2024,August,8,Wet season (approx.),22.0,175.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Odisha, India",Tropical deciduous forest,2024,September,9,Wet season (approx.),7.0,68.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Odisha, India",Tropical deciduous forest,2024,October,10,Wet season (approx.),5.0,88.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Odisha, India",Tropical deciduous forest,2024,November,11,Transition (approx.),29.0,229.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Odisha, India",Tropical deciduous forest,2024,December,12,Dry season (approx.),42.0,163.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Central Kalimantan, Indonesia",Peatland/tropical forest,2024,January,1,Summer,82.0,537.1,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Central Kalimantan, Indonesia",Peatland/tropical forest,2024,February,2,Summer,53.0,847.4,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Central Kalimantan, Indonesia",Peatland/tropical forest,2024,March,3,Autumn,12.0,113.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Central Kalimantan, Indonesia",Peatland/tropical forest,2024,April,4,Autumn,10.0,46.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Central Kalimantan, Indonesia",Peatland/tropical forest,2024,May,5,Autumn,33.0,392.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Central Kalimantan, Indonesia",Peatland/tropical forest,2024,June,6,Winter,8.0,75.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Central Kalimantan, Indonesia",Peatland/tropical forest,2024,July,7,Winter,12.0,50.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Central Kalimantan, Indonesia",Peatland/tropical forest,2024,August,8,Winter,7.0,52.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Central Kalimantan, Indonesia",Peatland/tropical forest,2024,September,9,Spring,14.0,118.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Central Kalimantan, Indonesia",Peatland/tropical forest,2024,October,10,Spring,10.0,175.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Central Kalimantan, Indonesia",Peatland/tropical forest,2024,November,11,Spring,14.0,223.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Central Kalimantan, Indonesia",Peatland/tropical forest,2024,December,12,Summer,18.0,159.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sumatra, Indonesia",Peatland/tropical forest,2024,January,1,Summer,13.0,137.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sumatra, Indonesia",Peatland/tropical forest,2024,February,2,Summer,51.0,884.3,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sumatra, Indonesia",Peatland/tropical forest,2024,March,3,Autumn,42.0,286.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sumatra, Indonesia",Peatland/tropical forest,2024,April,4,Autumn,13.0,35.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sumatra, Indonesia",Peatland/tropical forest,2024,May,5,Autumn,27.0,104.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sumatra, Indonesia",Peatland/tropical forest,2024,June,6,Winter,10.0,153.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sumatra, Indonesia",Peatland/tropical forest,2024,July,7,Winter,15.0,249.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sumatra, Indonesia",Peatland/tropical forest,2024,August,8,Winter,5.0,41.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sumatra, Indonesia",Peatland/tropical forest,2024,September,9,Spring,19.0,332.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sumatra, Indonesia",Peatland/tropical forest,2024,October,10,Spring,16.0,80.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sumatra, Indonesia",Peatland/tropical forest,2024,November,11,Spring,27.0,94.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sumatra, Indonesia",Peatland/tropical forest,2024,December,12,Summer,37.0,493.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sabah, Malaysia",Tropical rainforest,2024,January,1,Summer,62.0,959.4,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sabah, Malaysia",Tropical rainforest,2024,February,2,Summer,82.0,330.5,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sabah, Malaysia",Tropical rainforest,2024,March,3,Autumn,50.0,534.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sabah, Malaysia",Tropical rainforest,2024,April,4,Autumn,54.0,947.6,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sabah, Malaysia",Tropical rainforest,2024,May,5,Autumn,27.0,251.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sabah, Malaysia",Tropical rainforest,2024,June,6,Winter,11.0,85.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sabah, Malaysia",Tropical rainforest,2024,July,7,Winter,4.0,13.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sabah, Malaysia",Tropical rainforest,2024,August,8,Winter,9.0,82.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sabah, Malaysia",Tropical rainforest,2024,September,9,Spring,12.0,30.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sabah, Malaysia",Tropical rainforest,2024,October,10,Spring,24.0,127.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sabah, Malaysia",Tropical rainforest,2024,November,11,Spring,11.0,112.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sabah, Malaysia",Tropical rainforest,2024,December,12,Summer,95.0,1675.3,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Chiang Mai, Thailand",Tropical seasonal forest,2024,January,1,Dry season (approx.),9.0,40.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Chiang Mai, Thailand",Tropical seasonal forest,2024,February,2,Dry season (approx.),17.0,87.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Chiang Mai, Thailand",Tropical seasonal forest,2024,March,3,Dry season (approx.),25.0,264.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Chiang Mai, Thailand",Tropical seasonal forest,2024,April,4,Dry season (approx.),47.0,245.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Chiang Mai, Thailand",Tropical seasonal forest,2024,May,5,Wet season (approx.),13.0,205.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Chiang Mai, Thailand",Tropical seasonal forest,2024,June,6,Wet season (approx.),22.0,166.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Chiang Mai, Thailand",Tropical seasonal forest,2024,July,7,Wet season (approx.),4.0,36.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Chiang Mai, Thailand",Tropical seasonal forest,2024,August,8,Wet season (approx.),6.0,48.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Chiang Mai, Thailand",Tropical seasonal forest,2024,September,9,Wet season (approx.),9.0,44.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Chiang Mai, Thailand",Tropical seasonal forest,2024,October,10,Wet season (approx.),14.0,174.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Chiang Mai, Thailand",Tropical seasonal forest,2024,November,11,Transition (approx.),12.0,67.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Chiang Mai, Thailand",Tropical seasonal forest,2024,December,12,Dry season (approx.),55.0,258.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Northern Laos,Tropical seasonal forest,2024,January,1,Dry season (approx.),40.0,148.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Northern Laos,Tropical seasonal forest,2024,February,2,Dry season (approx.),63.0,649.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Northern Laos,Tropical seasonal forest,2024,March,3,Dry season (approx.),13.0,232.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Northern Laos,Tropical seasonal forest,2024,April,4,Dry season (approx.),39.0,376.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Northern Laos,Tropical seasonal forest,2024,May,5,Wet season (approx.),13.0,149.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Northern Laos,Tropical seasonal forest,2024,June,6,Wet season (approx.),8.0,97.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Northern Laos,Tropical seasonal forest,2024,July,7,Wet season (approx.),18.0,171.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Northern Laos,Tropical seasonal forest,2024,August,8,Wet season (approx.),5.0,48.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Northern Laos,Tropical seasonal forest,2024,September,9,Wet season (approx.),19.0,235.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Northern Laos,Tropical seasonal forest,2024,October,10,Wet season (approx.),5.0,44.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Northern Laos,Tropical seasonal forest,2024,November,11,Transition (approx.),27.0,326.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Northern Laos,Tropical seasonal forest,2024,December,12,Dry season (approx.),42.0,529.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Siberia, Russia",Boreal forest,2024,January,1,Winter,17.0,134.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Siberia, Russia",Boreal forest,2024,February,2,Winter,11.0,164.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Siberia, Russia",Boreal forest,2024,March,3,Spring,23.0,222.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Siberia, Russia",Boreal forest,2024,April,4,Spring,16.0,222.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Siberia, Russia",Boreal forest,2024,May,5,Spring,12.0,144.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Siberia, Russia",Boreal forest,2024,June,6,Summer,23.0,375.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Siberia, Russia",Boreal forest,2024,July,7,Summer,42.0,726.5,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Siberia, Russia",Boreal forest,2024,August,8,Summer,23.0,118.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Siberia, Russia",Boreal forest,2024,September,9,Autumn,26.0,419.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Siberia, Russia",Boreal forest,2024,October,10,Autumn,24.0,319.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Siberia, Russia",Boreal forest,2024,November,11,Autumn,39.0,376.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Siberia, Russia",Boreal forest,2024,December,12,Winter,4.0,25.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Far East Russia,Boreal forest,2024,January,1,Winter,4.0,43.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Far East Russia,Boreal forest,2024,February,2,Winter,8.0,25.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Far East Russia,Boreal forest,2024,March,3,Spring,21.0,293.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Far East Russia,Boreal forest,2024,April,4,Spring,23.0,211.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Far East Russia,Boreal forest,2024,May,5,Spring,15.0,116.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Far East Russia,Boreal forest,2024,June,6,Summer,48.0,455.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Far East Russia,Boreal forest,2024,July,7,Summer,27.0,378.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Far East Russia,Boreal forest,2024,August,8,Summer,32.0,203.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Far East Russia,Boreal forest,2024,September,9,Autumn,23.0,157.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Far East Russia,Boreal forest,2024,October,10,Autumn,13.0,75.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Far East Russia,Boreal forest,2024,November,11,Autumn,40.0,398.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Far East Russia,Boreal forest,2024,December,12,Winter,14.0,222.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Mongolia northern forest,Boreal/steppe,2024,January,1,Winter,12.0,194.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Mongolia northern forest,Boreal/steppe,2024,February,2,Winter,20.0,293.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Mongolia northern forest,Boreal/steppe,2024,March,3,Spring,11.0,24.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Mongolia northern forest,Boreal/steppe,2024,April,4,Spring,18.0,178.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Mongolia northern forest,Boreal/steppe,2024,May,5,Spring,20.0,216.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Mongolia northern forest,Boreal/steppe,2024,June,6,Summer,47.0,175.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Mongolia northern forest,Boreal/steppe,2024,July,7,Summer,68.0,1058.4,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Mongolia northern forest,Boreal/steppe,2024,August,8,Summer,36.0,574.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Mongolia northern forest,Boreal/steppe,2024,September,9,Autumn,12.0,101.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Mongolia northern forest,Boreal/steppe,2024,October,10,Autumn,39.0,456.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Mongolia northern forest,Boreal/steppe,2024,November,11,Autumn,32.0,349.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,Mongolia northern forest,Boreal/steppe,2024,December,12,Winter,13.0,61.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Yunnan, China",Subtropical forest,2024,January,1,Dry season (approx.),17.0,292.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Yunnan, China",Subtropical forest,2024,February,2,Dry season (approx.),21.0,322.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Yunnan, China",Subtropical forest,2024,March,3,Dry season (approx.),9.0,43.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Yunnan, China",Subtropical forest,2024,April,4,Dry season (approx.),60.0,374.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Yunnan, China",Subtropical forest,2024,May,5,Wet season (approx.),14.0,179.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Yunnan, China",Subtropical forest,2024,June,6,Wet season (approx.),23.0,132.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Yunnan, China",Subtropical forest,2024,July,7,Wet season (approx.),26.0,162.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Yunnan, China",Subtropical forest,2024,August,8,Wet season (approx.),8.0,71.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Yunnan, China",Subtropical forest,2024,September,9,Wet season (approx.),18.0,258.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Yunnan, China",Subtropical forest,2024,October,10,Wet season (approx.),7.0,107.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Yunnan, China",Subtropical forest,2024,November,11,Transition (approx.),23.0,256.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Yunnan, China",Subtropical forest,2024,December,12,Dry season (approx.),30.0,78.5,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sichuan, China",Mountain forest,2024,January,1,Winter,5.0,74.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sichuan, China",Mountain forest,2024,February,2,Winter,4.0,33.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sichuan, China",Mountain forest,2024,March,3,Spring,14.0,70.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sichuan, China",Mountain forest,2024,April,4,Spring,21.0,179.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sichuan, China",Mountain forest,2024,May,5,Spring,23.0,282.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sichuan, China",Mountain forest,2024,June,6,Summer,47.0,833.2,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sichuan, China",Mountain forest,2024,July,7,Summer,22.0,369.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sichuan, China",Mountain forest,2024,August,8,Summer,31.0,424.0,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sichuan, China",Mountain forest,2024,September,9,Autumn,9.0,85.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sichuan, China",Mountain forest,2024,October,10,Autumn,32.0,158.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sichuan, China",Mountain forest,2024,November,11,Autumn,22.0,324.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Sichuan, China",Mountain forest,2024,December,12,Winter,11.0,163.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Shikoku, Japan",Temperate forest,2024,January,1,Winter,9.0,54.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Shikoku, Japan",Temperate forest,2024,February,2,Winter,4.0,68.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Shikoku, Japan",Temperate forest,2024,March,3,Spring,16.0,248.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Shikoku, Japan",Temperate forest,2024,April,4,Spring,15.0,38.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Shikoku, Japan",Temperate forest,2024,May,5,Spring,9.0,130.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Shikoku, Japan",Temperate forest,2024,June,6,Summer,17.0,283.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Shikoku, Japan",Temperate forest,2024,July,7,Summer,62.0,349.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Shikoku, Japan",Temperate forest,2024,August,8,Summer,44.0,698.7,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Shikoku, Japan",Temperate forest,2024,September,9,Autumn,35.0,495.6,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Shikoku, Japan",Temperate forest,2024,October,10,Autumn,16.0,231.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Shikoku, Japan",Temperate forest,2024,November,11,Autumn,17.0,154.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Shikoku, Japan",Temperate forest,2024,December,12,Winter,19.0,198.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Hokkaido, Japan",Boreal/temperate,2024,January,1,Winter,19.0,265.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Hokkaido, Japan",Boreal/temperate,2024,February,2,Winter,10.0,38.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Hokkaido, Japan",Boreal/temperate,2024,March,3,Spring,33.0,332.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Hokkaido, Japan",Boreal/temperate,2024,April,4,Spring,13.0,108.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Hokkaido, Japan",Boreal/temperate,2024,May,5,Spring,37.0,220.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Hokkaido, Japan",Boreal/temperate,2024,June,6,Summer,71.0,912.2,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Hokkaido, Japan",Boreal/temperate,2024,July,7,Summer,22.0,323.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Hokkaido, Japan",Boreal/temperate,2024,August,8,Summer,59.0,799.4,High,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Hokkaido, Japan",Boreal/temperate,2024,September,9,Autumn,59.0,450.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Hokkaido, Japan",Boreal/temperate,2024,October,10,Autumn,52.0,498.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Hokkaido, Japan",Boreal/temperate,2024,November,11,Autumn,8.0,68.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Asia,"Hokkaido, Japan",Boreal/temperate,2024,December,12,Winter,19.0,124.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"New South Wales, Australia",Eucalyptus forest,2024,January,1,Summer,53.0,937.0,High,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"New South Wales, Australia",Eucalyptus forest,2024,February,2,Summer,101.0,688.9,High,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"New South Wales, Australia",Eucalyptus forest,2024,March,3,Autumn,23.0,269.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"New South Wales, Australia",Eucalyptus forest,2024,April,4,Autumn,60.0,916.4,High,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"New South Wales, Australia",Eucalyptus forest,2024,May,5,Autumn,52.0,696.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"New South Wales, Australia",Eucalyptus forest,2024,June,6,Winter,4.0,39.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"New South Wales, Australia",Eucalyptus forest,2024,July,7,Winter,10.0,158.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"New South Wales, Australia",Eucalyptus forest,2024,August,8,Winter,3.0,25.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"New South Wales, Australia",Eucalyptus forest,2024,September,9,Spring,15.0,209.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"New South Wales, Australia",Eucalyptus forest,2024,October,10,Spring,34.0,539.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"New South Wales, Australia",Eucalyptus forest,2024,November,11,Spring,20.0,109.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"New South Wales, Australia",Eucalyptus forest,2024,December,12,Summer,77.0,1114.1,High,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Victoria, Australia",Eucalyptus forest,2024,January,1,Summer,64.0,155.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Victoria, Australia",Eucalyptus forest,2024,February,2,Summer,48.0,641.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Victoria, Australia",Eucalyptus forest,2024,March,3,Autumn,19.0,199.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Victoria, Australia",Eucalyptus forest,2024,April,4,Autumn,46.0,422.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Victoria, Australia",Eucalyptus forest,2024,May,5,Autumn,12.0,194.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Victoria, Australia",Eucalyptus forest,2024,June,6,Winter,17.0,129.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Victoria, Australia",Eucalyptus forest,2024,July,7,Winter,15.0,263.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Victoria, Australia",Eucalyptus forest,2024,August,8,Winter,17.0,284.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Victoria, Australia",Eucalyptus forest,2024,September,9,Spring,28.0,150.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Victoria, Australia",Eucalyptus forest,2024,October,10,Spring,14.0,54.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Victoria, Australia",Eucalyptus forest,2024,November,11,Spring,29.0,92.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Victoria, Australia",Eucalyptus forest,2024,December,12,Summer,16.0,243.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Queensland, Australia",Tropical/subtropical forest,2024,January,1,Summer,69.0,834.5,High,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Queensland, Australia",Tropical/subtropical forest,2024,February,2,Summer,61.0,745.1,High,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Queensland, Australia",Tropical/subtropical forest,2024,March,3,Autumn,32.0,293.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Queensland, Australia",Tropical/subtropical forest,2024,April,4,Autumn,28.0,265.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Queensland, Australia",Tropical/subtropical forest,2024,May,5,Autumn,14.0,86.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Queensland, Australia",Tropical/subtropical forest,2024,June,6,Winter,4.0,23.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Queensland, Australia",Tropical/subtropical forest,2024,July,7,Winter,11.0,142.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Queensland, Australia",Tropical/subtropical forest,2024,August,8,Winter,17.0,55.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Queensland, Australia",Tropical/subtropical forest,2024,September,9,Spring,26.0,142.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Queensland, Australia",Tropical/subtropical forest,2024,October,10,Spring,31.0,513.3,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Queensland, Australia",Tropical/subtropical forest,2024,November,11,Spring,9.0,59.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Queensland, Australia",Tropical/subtropical forest,2024,December,12,Summer,31.0,370.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Tasmania, Australia",Temperate forest,2024,January,1,Summer,43.0,178.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Tasmania, Australia",Temperate forest,2024,February,2,Summer,23.0,178.9,High,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Tasmania, Australia",Temperate forest,2024,March,3,Autumn,23.0,210.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Tasmania, Australia",Temperate forest,2024,April,4,Autumn,36.0,121.9,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Tasmania, Australia",Temperate forest,2024,May,5,Autumn,49.0,680.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Tasmania, Australia",Temperate forest,2024,June,6,Winter,5.0,76.4,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Tasmania, Australia",Temperate forest,2024,July,7,Winter,10.0,95.6,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Tasmania, Australia",Temperate forest,2024,August,8,Winter,10.0,119.2,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Tasmania, Australia",Temperate forest,2024,September,9,Spring,25.0,261.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Tasmania, Australia",Temperate forest,2024,October,10,Spring,34.0,469.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Tasmania, Australia",Temperate forest,2024,November,11,Spring,9.0,87.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"Tasmania, Australia",Temperate forest,2024,December,12,Summer,21.0,207.8,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"South Island, New Zealand",Temperate forest,2024,January,1,Summer,61.0,561.8,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"South Island, New Zealand",Temperate forest,2024,February,2,Summer,32.0,175.1,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"South Island, New Zealand",Temperate forest,2024,March,3,Autumn,10.0,89.1,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"South Island, New Zealand",Temperate forest,2024,April,4,Autumn,15.0,206.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"South Island, New Zealand",Temperate forest,2024,May,5,Autumn,41.0,183.2,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"South Island, New Zealand",Temperate forest,2024,June,6,Winter,4.0,18.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"South Island, New Zealand",Temperate forest,2024,July,7,Winter,7.0,85.9,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"South Island, New Zealand",Temperate forest,2024,August,8,Winter,10.0,141.5,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"South Island, New Zealand",Temperate forest,2024,September,9,Spring,13.0,130.0,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"South Island, New Zealand",Temperate forest,2024,October,10,Spring,14.0,218.3,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"South Island, New Zealand",Temperate forest,2024,November,11,Spring,13.0,85.7,Low,SIMULATED / EDUCATIONAL — not observed fire records
+Oceania,"South Island, New Zealand",Temperate forest,2024,December,12,Summer,60.0,372.4,Moderate,SIMULATED / EDUCATIONAL — not observed fire records
